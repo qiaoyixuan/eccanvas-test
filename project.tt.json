@@ -1,0 +1,9 @@
+{
+  "miniprogramRoot": "./",
+  "projectname": "solar-charts-test",
+  "appid": "cli_a0336bf315f8100c",
+  "setting": {
+    "es6": false,
+    "minified": false
+  }
+}
